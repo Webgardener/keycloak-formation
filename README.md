@@ -57,7 +57,9 @@ Nous avons une instance Keycloak et une app en Go (qui ne fait pas grand chose p
 Dans la step 2, nous allons commencer à relier notre app à Keycloak.
 
 
+## Step 2 
 
+git checkout step-2
 
 
 
